@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/banner-beta.png" alt="CMD HELP BETA" width="100%">
+<img src="docs/images/banner-cmd.png" alt="CMD HELP BETA" width="100%">
 
 <br><br>
 
@@ -13,7 +13,7 @@ Pick a topic, click a tile, and CMD HELP runs the command and shows the result. 
 
 <br>
 
-<a href="https://github.com/MRGREGOR85/CMD-HELP-GUI-BETA/raw/main/download/CMD-HELP.exe"><img src="docs/images/download_en.png" alt="Download CMD HELP" width="380"></a>
+<a href="https://github.com/MRGREGOR85/CMD-HELP-GUI-BETA/raw/main/download/CMD-HELP.exe"><img src="docs/images/download-cmd.png" alt="Download CMD HELP" width="380"></a>
 
 <sub>Windows 10 and 11 · 32-bit and 64-bit · one file, nothing to install</sub>
 
