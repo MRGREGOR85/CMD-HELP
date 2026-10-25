@@ -17,6 +17,7 @@ Pick a topic, click a tile, and CMD HELP runs the command and shows the result. 
 
 <sub>Windows 10 and 11 · 32-bit and 64-bit · one file, nothing to install</sub>
 
+
 <br><br>
 
 <img src="docs/images/demo.gif" alt="CMD HELP in action" width="90%">
@@ -203,6 +204,16 @@ CMD HELP only runs normal Windows commands. Anything that deletes, closes or shu
 
 Free for private and noncommercial use. Selling or commercial use only with the author's permission.
 Full text: [PolyForm Noncommercial 1.0.0](LICENSE).
+
+## 🎬 YouTube
+
+<div align="center">
+
+<a href="https://youtu.be/xjmLeH1Z9j4"><img src="docs/images/video.jpg" alt="Watch the full step-by-step video guide" width="480"></a>
+
+**▶ [Full video guide on YouTube](https://youtu.be/xjmLeH1Z9j4)**
+
+</div>
 
 ## Author
 
