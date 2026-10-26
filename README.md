@@ -2,10 +2,12 @@
 
 <img src="docs/images/banner-cmd.png" alt="CMD HELP BETA" width="100%">
 
-<br><br>
+## [🇵🇱 Polski](README_PL.md) &nbsp; [🇬🇧 English](README.md) &nbsp; [🇩🇪 Deutsch](lang/README_DE.md) &nbsp; [🇨🇿 Čeština](lang/README_CS.md) &nbsp; [🇸🇰 Slovenčina](lang/README_SK.md) &nbsp; [🇺🇦 Українська](lang/README_UK.md) &nbsp; [🇷🇺 Русский](lang/README_RU.md) &nbsp; [🇱🇹 Lietuvių](lang/README_LT.md) &nbsp; [🇱🇻 Latviešu](lang/README_LV.md) &nbsp; [🇪🇪 Eesti](lang/README_ET.md) &nbsp; [🇪🇸 Español](lang/README_ES.md) &nbsp; [🇫🇷 Français](lang/README_FR.md) &nbsp; [🇮🇹 Italiano](lang/README_IT.md) &nbsp; [🇵🇹 Português](lang/README_PT.md) &nbsp; [🇳🇱 Nederlands](lang/README_NL.md) &nbsp; [🇸🇪 Svenska](lang/README_SV.md) &nbsp; [🇩🇰 Dansk](lang/README_DA.md) &nbsp; [🇳🇴 Norsk](lang/README_NO.md) &nbsp; [🇫🇮 Suomi](lang/README_FI.md) &nbsp; [🇭🇺 Magyar](lang/README_HU.md) &nbsp; [🇷🇴 Română](lang/README_RO.md) &nbsp; [🇧🇬 Български](lang/README_BG.md) &nbsp; [🇬🇷 Ελληνικά](lang/README_EL.md) &nbsp; [🇭🇷 Hrvatski](lang/README_HR.md) &nbsp; [🇷🇸 Српски](lang/README_SR.md) &nbsp; [🇸🇮 Slovenščina](lang/README_SL.md) &nbsp; [🇹🇷 Türkçe](lang/README_TR.md) &nbsp; [🇻🇳 Tiếng Việt](lang/README_VI.md) &nbsp; [🇮🇩 Indonesia](lang/README_ID.md)
 
-[![BETA](https://img.shields.io/badge/BETA-ff9500?style=flat-square)](#-how-to-use-it-step-by-step)
-[![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white)](#-how-to-use-it-step-by-step)
+<br>
+
+[![BETA](https://img.shields.io/badge/BETA-ff9500?style=flat-square)](#how)
+[![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white)](#how)
 [![License](https://img.shields.io/badge/license-PolyForm%20NC%201.0.0-orange?style=flat-square)](LICENSE)
 
 ### Windows commands as simple tiles.
@@ -43,8 +45,8 @@ Pick a topic, click a tile, and CMD HELP runs the command and shows the result. 
 
 <table>
 <tr>
-<td width="50%"><img src="docs/screenshots/network.png" alt="Network"></td>
-<td width="50%"><img src="docs/screenshots/command_window.png" alt="Command window"></td>
+<td width="50%"><img src="docs/screenshots/network.png" alt="Network tiles"></td>
+<td width="50%"><img src="docs/screenshots/command_window.png" alt="A command window"></td>
 </tr>
 <tr>
 <td align="center"><b>Network tiles</b></td>
@@ -52,7 +54,7 @@ Pick a topic, click a tile, and CMD HELP runs the command and shows the result. 
 </tr>
 <tr>
 <td><img src="docs/screenshots/catalog.png" alt="A–Z catalogue"></td>
-<td><img src="docs/screenshots/system.png" alt="System"></td>
+<td><img src="docs/screenshots/system.png" alt="System tiles"></td>
 </tr>
 <tr>
 <td align="center"><b>A–Z catalogue</b></td>
@@ -63,9 +65,10 @@ Pick a topic, click a tile, and CMD HELP runs the command and shows the result. 
 <details>
 <summary><b>See all 21 colour themes</b></summary>
 <br>
-<img src="docs/images/skins.png" alt="All 21 colour themes">
+<img src="docs/images/skins.png" alt="See all 21 colour themes">
 </details>
 
+<a id="how"></a>
 ## 📖 How to use it, step by step
 
 🟥 A red frame shows **where to click**. 🔴 Numbers **1**, **2** show **what to click first**.
