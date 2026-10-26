@@ -209,7 +209,7 @@ Full text: [PolyForm Noncommercial 1.0.0](LICENSE).
 
 <div align="center">
 
-<a href="https://youtu.be/xjmLeH1Z9j4"><img src="docs/images/video.jpg" alt="Watch the full step-by-step video guide" width="480"></a>
+<a href="https://youtu.be/xjmLeH1Z9j4"><img src="docs/images/video.jpg" alt="Watch the full step-by-step video guide" width="100%"></a>
 
 </div>
 
