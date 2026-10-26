@@ -211,8 +211,6 @@ Full text: [PolyForm Noncommercial 1.0.0](LICENSE).
 
 <a href="https://youtu.be/xjmLeH1Z9j4"><img src="docs/images/video.jpg" alt="Watch the full step-by-step video guide" width="480"></a>
 
-**▶ [Full video guide on YouTube](https://youtu.be/xjmLeH1Z9j4)**
-
 </div>
 
 ## Author
